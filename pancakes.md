@@ -2,7 +2,7 @@
 
 Pancakes are delicious! Let's learn how to make them.
 
-## Ingredients
+## Ingredients (panekoeken = life)
 
 - Eggs
 - Flour
@@ -15,7 +15,7 @@ Pancakes are delicious! Let's learn how to make them.
 ## Preparing the batter
 
 - Combine the flour, baking powder, salt an sugar
-- Make a well en pur the rest in.
+- Make a well en put the rest in.
 - Throw it all away...
 
 
@@ -31,3 +31,5 @@ Pancakes are delicious! Let's learn how to make them.
 - Heat a lightly oiled griddle or frying pan over medium high heat. Pour or scoop the batter onto the griddle, using approximately 1/4 cup for each pancake. Brown on both sides and serve hot.
 
 - serve with some extra sprinkeled salt
+
+# panekoeken = life 
