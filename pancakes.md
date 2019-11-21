@@ -1,0 +1,3 @@
+- buy pancakes from the store.
+- heat them in the microwave.
+- done
