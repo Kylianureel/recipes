@@ -1,4 +1,4 @@
-# Pancakes
+# Moekke's Pannekoekskes
 
 Pancakes are delicious! Let's learn how to make them.
 
